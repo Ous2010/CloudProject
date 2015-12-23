@@ -1,5 +1,22 @@
 package com.cloudproject.entity;
 
-public class Equipe {
+import java.io.Serializable;
 
+import javax.persistence.Entity;
+
+@Entity
+public class Equipe implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	
+	
+	
+	
+	
+	
+	
 }
